@@ -1,0 +1,66 @@
+# Node modules directory
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# npm and Yarn lock files (optional, if you're using Yarn)
+package-lock.json
+yarn.lock
+
+# Coverage directory from testing
+coverage/
+
+# IDE or editor directories and files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Jest and other testing framework's coverage report
+*.lcov
+
+# React Native build folders
+android/
+ios/
+
+# Next.js build folder (if using Next.js)
+.next/
+
+# Firebase related files (if using Firebase)
+firebase-debug.log
+
+# dotenv files
+.env.*
+
+# eslint and prettier cache
+.eslintcache
+.prettier_cache/
+
+# TypeScript build output (if using TypeScript)
+*.tsbuildinfo
+
+# IDE specific settings
+.idea/
+
+# MacOS system files
+.DS_Store
